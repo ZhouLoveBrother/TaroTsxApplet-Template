@@ -1,2 +1,2 @@
 # TaroTsxApplet-Template
-taro的ts小程序模板
+taro的ts微信小程序
