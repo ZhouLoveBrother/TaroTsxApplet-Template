@@ -35,7 +35,7 @@ class TestA extends Component {
     render() {
         return (
             <View className="container testA">
-                新页面创建模板风格-分包testA1
+                新页面创建模板风格-分包testA2
             </View>
         );
     }
